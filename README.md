@@ -11,7 +11,7 @@ Call easy_thumbnail function and pass following parameter
      @param string $log   
      @return bool|string  
  
- @param string $log  // By default log is false but can be enabled by passing param to true
+ @param string $log  // By default log is false but can be enabled by passing param to true <br>
  @return bool|string  // It return thumbnail path on success and false if thumbnail not crated and  generate log
 
 rest of them are self explanatory.
